@@ -1,4 +1,4 @@
-# Taskez
+# Task
 
 <p align="center">A productivity mobile application UI kit built with Flutter</p>
 
